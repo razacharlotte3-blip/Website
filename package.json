@@ -1,5 +1,5 @@
 {
-  "name": "dashboard",
+  "name": "sample",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,15 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@tailwindcss/vite": "^4.1.14",
-    "lucide-react": "^0.545.0",
-    "package-name": "^0.1.0",
     "react": "^19.1.1",
-    "react-dom": "^19.1.1",
-    "react-icons": "^5.5.0",
-    "react-router-dom": "^7.9.4",
-    "recharts": "^3.2.1",
-    "tailwind": "^2.3.1"
+    "react-dom": "^19.1.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",
